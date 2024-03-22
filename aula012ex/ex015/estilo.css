@@ -10,6 +10,10 @@ header {
     text-align: center;
 }
 
+div#res {
+    text-align: center;
+}
+
 section {
     background: white;
     border-radius: 10px;
